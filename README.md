@@ -3,4 +3,4 @@ IXD101 Interaction Design Fundamentals
 
 A Brief History of Type
 ----------------
-- [history of type](https://csheridan16.github.io/A-Brief-History-of-Type/historyoftype.html)
+- [historyoftype](https://csheridan16.github.io/A-Brief-History-of-Type/historyoftype.html)
